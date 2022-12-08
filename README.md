@@ -6,4 +6,4 @@ I have a passion for learning and love to collaborate on content while doing my 
 
 I'm currently exploring .NET Core Blazor and Frontend Web Development namely full stack JavaScript applications.
 
-I enjoy reading articles/books covering modern technologies, gaming, writing, and bowling
+I enjoy reading articles/books covering modern technologies, gaming, writing, and bowling.
